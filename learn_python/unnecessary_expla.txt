@@ -1,0 +1,5 @@
+>>> from unnecessary_math import multiply
+>>> multiply(2,3)
+6
+>>> multiply('baka~',3)
+'baka~baka~baka~'
